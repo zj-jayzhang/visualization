@@ -16,4 +16,4 @@ python3 standard_train.py --lr=0.01 --batch_size=256 --load=1 --type=tsne
 ```shell
 python3 standard_train.py --lr=0.01 --batch_size=256 --load=1 --type=sphere
 ```
-![image](https://github.com/devilzj/visualization/blob/main/sphere_cifar10.png)
+<img src="https://github.com/devilzj/visualization/blob/main/sphere_cifar10.png" width = "500" height = "500" alt="图片名称" align=center />
